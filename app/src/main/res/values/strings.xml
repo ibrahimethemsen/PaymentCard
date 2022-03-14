@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Payment Card</string>
+
+    <string name="card_holder_name">Kart Sahibi</string>
+    <string name="card_holder_number">Kart Numarası</string>
+    <string name="expiry_date">Son Kullanma Tarihi</string>
+    <string name="cvc">CVC</string>
+    <string name="save">kaydet</string>
+</resources>
